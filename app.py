@@ -10,7 +10,7 @@ def notbad():
             message = "ReallyNotBad"
             return message
     else:
-        return "<h1>hmmm... try setting a magical header.</h1>"
+        return "<h1>hmmm... not bad but, try setting a magical header and use post method. :)</h1>"
 
 
 if __name__ == "__main__":
